@@ -1,0 +1,16 @@
+{
+  "name": "wbijam-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kvpsky",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "jsdom": "^18.0.1",
+    "tabletojson": "^2.0.7"
+  }
+}
